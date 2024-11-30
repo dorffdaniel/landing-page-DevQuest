@@ -1,5 +1,5 @@
 # Agência XPTO - Landing Page
-
+<img src="src/imagens/designPage.gif" >
 Este projeto consiste em uma landing page desenvolvida para a Agência XPTO como parte do aprendizado no Curso DevQuest. A página apresenta informações sobre a agência, seus projetos e como entrar em contato. Utiliza as tecnologias HTML, CSS e JavaScript para criar uma experiência moderna e interativa.
 
 ## 📋 Sobre o Projeto
